@@ -6,7 +6,7 @@
 
 This is a python script I wrote in order to sort .jpg's in a manga-like way so you can print it this way.
 
-1.)The paper is A4.
+1.)The scripts must be in the same folder that .jpg's are.
 2.)I use the Image Downloader extension in Google Chrome in order to download the manga pages from the host sites.
    link for Image Downloader ( https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj )
 3.)The name of each .jpg I download has the form of "iii.jpg" where iii are numbers like 000, 001 etc...
